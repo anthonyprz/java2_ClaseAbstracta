@@ -23,5 +23,5 @@ tiene que implementarlos.
 		
 */
 public abstract class FiguraGeometrica {
-	 public void dibujar() {}
+	public abstract void dibujar();
 }
