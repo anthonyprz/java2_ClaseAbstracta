@@ -17,7 +17,8 @@ tiene que implementarlos.
 			No se pueden crear objetos de una clase abstracta
 		Una clase abstracta puede incluir variables y métodos no abstractos.
  		No se pueden definir constructores abstractos o métodos estáticos abstractos.
-
+		
+		una clase abstracta tiene que tener al menos un metodo abstracto
 		
 		
 		
